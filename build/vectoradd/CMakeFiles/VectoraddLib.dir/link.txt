@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/victor/catkin_ws/devel/lib/libVectoraddLib.a  CMakeFiles/VectoraddLib.dir/src/VectoraddLib_generated_vectoradd.cu.o
-/usr/bin/ranlib /home/victor/catkin_ws/devel/lib/libVectoraddLib.a
